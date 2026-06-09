@@ -101,7 +101,7 @@ void mergeByCity(vector<Region>& regions, int start, int mid, int end){
   }
 
   for (int i = 0; i < static_cast<int>(temp.size()); i++){
-    regions[start + i] = temp
+    regions[start + i] = temp[i];
   }
 }
 
