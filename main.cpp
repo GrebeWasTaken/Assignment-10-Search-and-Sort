@@ -57,7 +57,7 @@ void selectionSort(vector<Region>& regions){
 }
 
 //part 3 helpers
-bool comesBeforeByCity
+bool comesBeforeByCity(const Region& a, const Region)
 
 //part 3
 void mergeSortByCity(vector<Region>& regions, )
