@@ -111,6 +111,7 @@ void mergeSortByCity(vector<Region>& regions, int start, int end){
     return;
   }
 
+  int mid = (start + end) / 2;
   
 }
 
