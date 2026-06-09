@@ -11,7 +11,7 @@ using namespace std;
 void readRegions(vector<Region>& regions){
   ifstream inputFile("ZILLOW_REGIONS.csv");
 
-  if (!)
+  if
 }
 
 int main()
