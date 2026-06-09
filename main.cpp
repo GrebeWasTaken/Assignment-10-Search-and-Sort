@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
-  cout << "Hello world" << endl;
+  cout << "-----------------------------Part 1----------------------------"
+       << endl;
 }
