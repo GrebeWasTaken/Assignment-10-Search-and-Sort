@@ -60,7 +60,9 @@ void selectionSort(vector<Region>& regions){
 bool comesBeforeByCity(const Region& a, const Region& b){
   if (a.city < b.city){
     return true;
-  } else if()
+  } else if(a.city > b.city){
+    return false;
+  }
 }
 
 //part 3
