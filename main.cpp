@@ -52,7 +52,7 @@ void selectionStort(vector<Region>& regions){
         minIndex = j;
       }
     }
-    swap(regions[i],)
+    swap(regions[i], regions[minIndex]);
   }
 }
 
