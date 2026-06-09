@@ -9,7 +9,9 @@ using namespace std;
 
 //part 1 helper
 void printFirstFiveRegions(vector<Region>& regions){
-  int amountToPrint = 
+  int amountToPrint = 5;
+
+  if ()
 }
 
 
