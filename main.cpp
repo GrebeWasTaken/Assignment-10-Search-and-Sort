@@ -155,6 +155,6 @@ int main()
   clock_t startPt3 = clock();
 
   if (!regionsByName.empty()){
-    mergeSortByCity(regionsByName, 0, static_cast<int>)
+    mergeSortByCity(regionsByName, 0, static_cast<int>(regionsByName.size()) -)
   }
 }
