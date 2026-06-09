@@ -164,4 +164,8 @@ int main()
   
   cout << "First five regions after sort:" << endl;
   printFirstFiveRegions(regionsByName);
+
+  cout << endl;
+  cout << "-----------------------------Part 4----------------------------"
+       << endl;
 }
