@@ -63,6 +63,8 @@ bool comesBeforeByCity(const Region& a, const Region& b){
   } else if(a.city > b.city){
     return false;
   }
+
+  
 }
 
 //part 3
