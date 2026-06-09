@@ -56,6 +56,7 @@ void selectionSort(vector<Region>& regions){
   }
 }
 
+//part 3 helpers
 
 
 //part 3
