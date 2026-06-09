@@ -50,7 +50,7 @@ int main()
   readRegions(regions);
 
   cout << "First five regions:" << endl;
-  
+  printFirstFiveRegions
 
 
 
