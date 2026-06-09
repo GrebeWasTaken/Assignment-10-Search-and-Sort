@@ -154,5 +154,5 @@ int main()
 
   clock_t startPt3 = clock();
 
-  if (!)
+  if (!regionsByName.empty())
 }
