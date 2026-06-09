@@ -12,7 +12,7 @@ void printFirstFiveRegions(vector<Region>& regions){
   int amountToPrint = 5;
 
   if (regions.size() < 5){
-    
+    amountToPrint = regions.
   }
 }
 
