@@ -161,6 +161,7 @@ int main()
   clock_t endPt3 = clock();
 
   cout << "Merge sort took " << static_cast<double>(endPt3 - startPt3) / CLOCKS_PER_SEC << " seconds." << endl;
-
   
+  cout << "First five regions after sort:" << endl;
+  printFirstFiveRegions(regions);
 }
