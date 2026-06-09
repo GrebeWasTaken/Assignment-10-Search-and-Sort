@@ -78,5 +78,5 @@ int main()
 
   clock_t endPt2 = clock();
 
-  cout << "Selection sort took "
+  cout << "Selection sort took " << static_cast
 }
