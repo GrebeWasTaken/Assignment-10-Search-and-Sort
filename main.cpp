@@ -11,7 +11,9 @@ using namespace std;
 void printFirstFiveRegions(vector<Region>& regions){
   int amountToPrint = 5;
 
-  if ()
+  if (regions.size() < 5){
+    
+  }
 }
 
 
