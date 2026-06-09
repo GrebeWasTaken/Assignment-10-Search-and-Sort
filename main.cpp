@@ -83,5 +83,6 @@ int main()
   cout << "First five regions after sort:" << endl;
   printFirstFiveRegions(regions);
 
+  cout << endl;
   
 }
