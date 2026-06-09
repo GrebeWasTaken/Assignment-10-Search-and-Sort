@@ -114,7 +114,7 @@ void mergeSortByCity(vector<Region>& regions, int start, int end){
   int mid = (start + end) / 2;
 
   mergeSortByCity(regions, start, mid);
-  mergeByCity
+  mergeSortByCity(regions, mid + 1)
 }
 
 int main()
