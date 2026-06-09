@@ -15,7 +15,7 @@ void printFirstFiveRegions(vector<Region>& regions){
     amountToPrint = regions.size();
   }
 
-  for
+  for (int i = 0; i < a)
 }
 
 
