@@ -16,7 +16,7 @@ void readRegions(vector<Region>& regions){
   while (getline(inputFile, line)){
     if (line != ""){
       Region r = parseRegion(line);
-      
+      region
     }
   }
 }
