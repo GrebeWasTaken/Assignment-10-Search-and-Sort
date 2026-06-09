@@ -43,7 +43,7 @@ void readRegions(vector<Region>& regions){
 }
 
 //part 2
-void selectionStort(vector<Region>& regions){
+void selectionSort(vector<Region>& regions){
   for (int i = 0; i < static_cast<int>(regions.size()) - 1; i++){
     int minIndex = i;
 
@@ -74,5 +74,5 @@ int main()
 
   clock_t startPt2 = clock();
 
-  selection
+  
 }
