@@ -13,7 +13,7 @@ void readRegions(vector<Region>& regions){
 
   string line;
 
-  while ()
+  while (getline(input))
 }
 
 int main()
