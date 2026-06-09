@@ -52,6 +52,7 @@ void selectionStort(vector<Region>& regions){
         minIndex = j;
       }
     }
+    sw
   }
 }
 
