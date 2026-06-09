@@ -72,5 +72,7 @@ int main()
   cout << "-----------------------------Part 2----------------------------"
        << endl;
 
-  clock_t startpt
+  clock_t startPt2 = clock();
+
+  selection
 }
