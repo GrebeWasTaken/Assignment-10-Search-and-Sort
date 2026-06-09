@@ -189,5 +189,6 @@ int main()
 
   Region foundRegion = binaryFind(regions, 20317);
 
-  cout << "Region with id: " 
+  cout << "Region with id: " << endl;
+  print
 }
