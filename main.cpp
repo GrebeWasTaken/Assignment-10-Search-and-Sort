@@ -81,7 +81,7 @@ void mergeByCity(vector<Region>& regions, int start, int mid, int end){
   int right = mid + 1;
 
   while (left <= mid&& right <= end){
-    
+    if (comesBeforeByCity)
   }
 }
 
