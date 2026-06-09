@@ -89,5 +89,5 @@ int main()
 
   vector<Region> regionsByName = regions;
 
-  clock_t startPt
+  clock_t startPt3 = clock();
 }
