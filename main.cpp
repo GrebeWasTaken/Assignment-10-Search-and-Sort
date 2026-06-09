@@ -9,7 +9,9 @@ using namespace std;
 
 //part 1
 void readRegions(vector<Region>& regions){
-  ifstream inputFile("ZILLOW")
+  ifstream inputFile("ZILLOW_REGIONS.csv");
+
+  
 }
 
 int main()
