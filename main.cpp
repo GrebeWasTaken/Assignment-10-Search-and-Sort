@@ -122,7 +122,9 @@ void mergeSortByCity(vector<Region>& regions, int start, int end){
 //part 4
 Region binaryFind(vector<Region>& regions, int id){
   int low = 0;
-  int high = static_cast<int>(regions.size())
+  int high = static_cast<int>(regions.size()) - 1;
+
+  
 }
 
 int main()
