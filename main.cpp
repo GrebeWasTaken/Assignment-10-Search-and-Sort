@@ -42,6 +42,7 @@ void readRegions(vector<Region>& regions){
   inputFile.close();
 }
 
+//part 2
 
 
 int main()
