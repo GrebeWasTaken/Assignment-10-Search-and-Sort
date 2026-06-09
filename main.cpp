@@ -128,7 +128,7 @@ Region binaryFind(vector<Region>& regions, int id){
     int mid = (low + high) /2;
 
     if (regions[mid].id == id){
-      
+      return regions[mid];
     }
   }
 }
