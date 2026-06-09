@@ -2,7 +2,8 @@
 
 using namespace std;
 
-
+//part 1
+void 
 
 int main()
 {
