@@ -9,7 +9,7 @@ using namespace std;
 
 //prints 1 region
 void printRegion(const Region& r){
-  cout << "ID: " << r.id << ", City: " << r.city
+  cout << "ID: " << r.id << ", City: " << r.city << ", State: "
 }
 
 //helper prints 1st 5 regions
