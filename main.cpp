@@ -131,7 +131,7 @@ Region binaryFind(vector<Region>& regions, int id){
       return regions[mid];
     } else if (regions[mid].id < id){
       low = mid + 1;
-    } else {
+    } else{
       
     }
   }
