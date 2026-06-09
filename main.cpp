@@ -44,7 +44,7 @@ void readRegions(vector<Region>& regions){
 
 //part 2
 void selectionStort(vector<Region>& regions){
-  for (int i = 0; i < static_cast)
+  for (int i = 0; i < static_cast<int>(regions.size()) )
 }
 
 int main()
