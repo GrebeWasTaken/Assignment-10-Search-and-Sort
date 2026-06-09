@@ -87,5 +87,6 @@ int main()
   cout << "-----------------------------Part 3----------------------------"
        << endl;
 
-  vector<
+  vector<Region> regionsByName = regions;
+  
 }
