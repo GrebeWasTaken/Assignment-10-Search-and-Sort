@@ -64,7 +64,7 @@ bool comesBeforeByCity(const Region& a, const Region& b){
     return false;
   }
 
-  
+  //tie breaker
 }
 
 //part 3
