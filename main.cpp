@@ -99,6 +99,8 @@ void mergeByCity(vector<Region>& regions, int start, int mid, int end){
     temp.push_back(regions[right]);
     right++;
   }
+
+  for (int i = 0; i < static)
 }
 
 //part 3
