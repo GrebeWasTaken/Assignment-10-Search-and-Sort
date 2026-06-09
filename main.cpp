@@ -68,8 +68,10 @@ bool comesBeforeByCity(const Region& a, const Region& b){
   if (a.state < b.state){
     return true;
   } else if(a.state > b.state){
-    
+    return false;
   }
+
+  return 
 }
 
 //part 3
