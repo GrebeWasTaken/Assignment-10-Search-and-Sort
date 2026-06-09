@@ -1,0 +1,22 @@
+{
+    "name": "Chemeketa Basic Project",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "usernamehw.errorlens",
+                "cschlosser.doxdocgen",
+                "ascholer.chemeketa-gitdoc",
+                "ms-vscode.cpptools@1.29.3",
+                "davidkaiser.kaiser-project-zip",
+            ]
+        },
+        "codespaces": {
+            "openFiles": [
+                "main.cpp",
+            ]
+        }
+    },
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+}
