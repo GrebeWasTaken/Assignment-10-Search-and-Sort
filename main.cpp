@@ -160,5 +160,5 @@ int main()
 
   clock_t endPt3 = clock();
 
-  
+  cout << "Merge sort took " << static_cast<double>(endPt2 - startPt2) / CLOCKS_PER_SEC << " seconds." << endl;
 }
