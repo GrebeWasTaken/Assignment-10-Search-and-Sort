@@ -48,7 +48,7 @@ void selectionStort(vector<Region>& regions){
     int minIndex = i;
 
     for (int j = i + 1; j < static_cast<int>(regions.size()); j++){
-      if (regions[j].id < regions[])
+      if (regions[j].id < regions[minIndex].id)
     }
   }
 }
