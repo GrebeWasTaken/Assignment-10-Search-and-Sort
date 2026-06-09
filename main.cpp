@@ -100,7 +100,9 @@ void mergeByCity(vector<Region>& regions, int start, int mid, int end){
     right++;
   }
 
-  for (int i = 0; i < static_cast<int>(temp.size))
+  for (int i = 0; i < static_cast<int>(temp.size()); i++){
+    regions
+  }
 }
 
 //part 3
