@@ -76,5 +76,7 @@ int main()
 
   selectionSort(regions);
 
-  clock_t endPt2=
+  clock_t endPt2 = clock();
+
+  
 }
