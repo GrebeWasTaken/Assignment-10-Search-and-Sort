@@ -57,7 +57,7 @@ void selectionSort(vector<Region>& regions){
 }
 
 //part 3
-void mergeSortByCity(vector<Region>)
+void mergeSortByCity(vector<Region>& regions, )
 
 int main()
 {
