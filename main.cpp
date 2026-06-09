@@ -74,5 +74,5 @@ int main()
 
   clock_t startPt2 = clock();
 
-  
+  selectionSort
 }
