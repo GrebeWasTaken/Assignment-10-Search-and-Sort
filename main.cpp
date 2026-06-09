@@ -86,7 +86,7 @@ void mergeByCity(vector<Region>& regions, int start, int mid, int end){
       left++;
     } else{
       temp.push_back(regions[right]);
-      left++;
+      right++;
     }
   }
 }
