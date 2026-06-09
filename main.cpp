@@ -74,7 +74,9 @@ bool comesBeforeByCity(const Region& a, const Region& b){
   return a.id < b.id;
 }
 
-void mergeByCity(vector<Region>)
+void mergeByCity(vector<Region>& regions, int start, int mid, int end){
+  
+}
 
 //part 3
 void mergeSortByCity(vector<Region>& regions, )
