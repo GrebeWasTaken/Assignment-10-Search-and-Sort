@@ -7,7 +7,8 @@
 
 using namespace std;
 
-//
+//prints 1 region
+
 
 //helper prints 1st 5 regions
 void printFirstFiveRegions(vector<Region>& regions){
