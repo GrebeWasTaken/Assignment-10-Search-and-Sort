@@ -157,4 +157,6 @@ int main()
   if (!regionsByName.empty()){
     mergeSortByCity(regionsByName, 0, static_cast<int>(regionsByName.size()) - 1);
   }
+
+  clock_t endPt3 
 }
