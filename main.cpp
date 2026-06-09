@@ -79,6 +79,8 @@ void mergeByCity(vector<Region>& regions, int start, int mid, int end){
 
   int left = start;
   int right = mid + 1;
+
+  while ()
 }
 
 //part 3
