@@ -46,6 +46,8 @@ void readRegions(vector<Region>& regions){
 void selectionStort(vector<Region>& regions){
   for (int i = 0; i < static_cast<int>(regions.size()) - 1; i++){
     int minIndex = i;
+
+    
   }
 }
 
