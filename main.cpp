@@ -43,7 +43,9 @@ void readRegions(vector<Region>& regions){
 }
 
 //part 2
-void selectionStort(vector<)
+void selectionStort(vector<Region>& regions){
+  
+}
 
 int main()
 {
