@@ -23,6 +23,8 @@ void readRegions(vector<Region>& regions){
 
 int main()
 {
+  int 
+
   cout << "-----------------------------Part 1----------------------------"
        << endl;
   
