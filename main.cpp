@@ -43,7 +43,7 @@ void readRegions(vector<Region>& regions){
 }
 
 //part 2
-
+void selectionStort()
 
 int main()
 {
