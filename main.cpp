@@ -124,7 +124,7 @@ Region binaryFind(vector<Region>& regions, int id){
   int low = 0;
   int high = static_cast<int>(regions.size()) - 1;
 
-  
+  while (low <= high)
 }
 
 int main()
