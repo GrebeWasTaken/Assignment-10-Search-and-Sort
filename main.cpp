@@ -187,5 +187,5 @@ int main()
   cout << "-----------------------------Part 4----------------------------"
        << endl;
 
-  Region found
+  Region foundRegion = bin
 }
