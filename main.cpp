@@ -3,7 +3,7 @@
 using namespace std;
 
 //part 1
-void 
+void readRegions
 
 int main()
 {
