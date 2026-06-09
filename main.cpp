@@ -3,7 +3,9 @@
 using namespace std;
 
 //part 1
-void readRegions(vector<Region>& )
+void readRegions(vector<Region>& regions){
+  
+}
 
 int main()
 {
