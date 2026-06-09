@@ -8,7 +8,7 @@
 using namespace std;
 
 //part 1 helper
-void print
+void printFirstFiveRegions
 
 
 //part 1
