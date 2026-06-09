@@ -8,7 +8,9 @@
 using namespace std;
 
 //part 1 helper
-void printFirstFiveRegions
+void printFirstFiveRegions(vector<Region>& regions){
+  
+}
 
 
 //part 1
