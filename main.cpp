@@ -47,7 +47,7 @@ void selectionStort(vector<Region>& regions){
   for (int i = 0; i < static_cast<int>(regions.size()) - 1; i++){
     int minIndex = i;
 
-    
+    for (int j = i + 1; j < static_cast)
   }
 }
 
