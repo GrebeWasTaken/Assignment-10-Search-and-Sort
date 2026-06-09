@@ -107,7 +107,9 @@ void mergeByCity(vector<Region>& regions, int start, int mid, int end){
 
 //part 3
 void mergeSortByCity(vector<Region>& regions, int start, int end){
-  
+  if (start >= end){
+    return;
+  }
 }
 
 int main()
