@@ -56,6 +56,8 @@ void selectionSort(vector<Region>& regions){
   }
 }
 
+//part3
+
 int main()
 {
   vector<Region> regions;
@@ -90,4 +92,5 @@ int main()
   vector<Region> regionsByName = regions;
 
   clock_t startPt3 = clock();
+
 }
