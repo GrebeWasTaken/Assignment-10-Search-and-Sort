@@ -187,5 +187,7 @@ int main()
   cout << "-----------------------------Part 4----------------------------"
        << endl;
 
-  Region foundRegion = binaryFind(regions, 20317)
+  Region foundRegion = binaryFind(regions, 20317);
+
+  
 }
