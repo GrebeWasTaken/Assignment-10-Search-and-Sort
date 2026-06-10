@@ -266,7 +266,7 @@ int main()
     Region r = binaryFind(regions, prices[i].regionId);
 
     if (r.city == cityName){
-      cout << "City: " << r.city << ", State: " << r.state << ", Date: " << prices[i].date << ", Prices: " 
+      cout << "City: " << r.city << ", State: " << r.state << ", Date: " << prices[i].date << ", Prices: " << prices[i].
     }
   }
        
