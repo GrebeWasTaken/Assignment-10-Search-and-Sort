@@ -160,7 +160,9 @@ void readPrices(vector<PriceRecord>& prices){
 
   string line;
 
-  while (getLine())
+  while (getLine(inputFile, line)){
+    
+  }
 }
 
 
