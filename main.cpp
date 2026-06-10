@@ -138,7 +138,9 @@ Region binaryFind(vector<Region>& regions, int id){
 }
 
 //part 5 helpers
-void printPriceRecod
+void printPriceRecord(const PriceRecord& p){
+  
+}
 
 int main()
 {
