@@ -276,7 +276,7 @@ int main()
 
   cout << "Search loop took "
        << static_cast<double>(endPt6 - startPt6) / CLOCKS_PER_SEC << " seconds."
-       << endl
+       << endl;
 
       return 0;
 }
