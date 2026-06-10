@@ -259,6 +259,7 @@ int main()
 
   cout << "Enter city name: ";
   getline(cin, cityName);
+  cout << endl;
 
   clock_t startPt6 = clock();
 
@@ -278,5 +279,5 @@ int main()
        << static_cast<double>(endPt6 - startPt6) / CLOCKS_PER_SEC << " seconds."
        << endl;
 
-      return 0;
+  return 0;
 }
