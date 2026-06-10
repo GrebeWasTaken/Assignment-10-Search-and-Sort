@@ -236,5 +236,6 @@ int main()
   printFirstFivePrices(prices);
 
   cout << endl;
-
+  cout << "-----------------------------Part 5----------------------------"
+       << endl;
 }
