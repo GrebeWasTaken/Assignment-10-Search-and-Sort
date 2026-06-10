@@ -258,6 +258,6 @@ int main()
   string cityName;
 
   cout << "Enter city name: ";
-  
+  getline(cin, cityName)
        
 }
