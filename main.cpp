@@ -156,6 +156,8 @@ void printFirstFivePrices(vector<PriceRecord>& prices){
 
 //part 5
 
+
+
 int main()
 {
   vector<Region> regions;
