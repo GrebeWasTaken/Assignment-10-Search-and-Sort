@@ -161,7 +161,9 @@ void readPrices(vector<PriceRecord>& prices){
   string line;
 
   while (getLine(inputFile, line)){
-    if (line != )
+    if (line != ""){
+      PriceRecord p = 
+    }
   }
 }
 
