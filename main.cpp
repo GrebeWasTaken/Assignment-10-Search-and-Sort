@@ -232,5 +232,5 @@ int main()
   
   readPrices(prices);
 
-  cout 
+  cout << "First five price records:"
 }
