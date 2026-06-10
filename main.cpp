@@ -234,4 +234,7 @@ int main()
 
   cout << "First five price records:" << endl;
   printFirstFivePrices(prices);
+
+  cout << endl;
+
 }
