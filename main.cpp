@@ -228,5 +228,5 @@ int main()
   cout << "-----------------------------Part 5----------------------------"
        << endl;
 
-  vector<P     
+  vector<PriceRecord> prices     
 }
