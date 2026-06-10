@@ -150,7 +150,7 @@ void printFirstFiveRegions(vector<PriceRecord>& prices){
   }
 
   for (int i = 0; i < amountToPrint; i++){
-    printRegion(regions[i]);
+    print(prices[i]);
   }
 }
 
