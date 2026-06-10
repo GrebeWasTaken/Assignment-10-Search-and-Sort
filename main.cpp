@@ -137,7 +137,8 @@ Region binaryFind(vector<Region>& regions, int id){
   }
 }
 
-//part 5 
+//part 5 helpers
+void pri
 
 int main()
 {
