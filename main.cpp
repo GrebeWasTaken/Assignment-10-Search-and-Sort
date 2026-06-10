@@ -139,7 +139,7 @@ Region binaryFind(vector<Region>& regions, int id){
 
 //part 5 helpers
 void printPriceRecord(const PriceRecord& p){
-  cout << "ID: " << p.regionId << ", City: " << r.city << ", State: " << r.state << endl;
+  cout << "ID: " << p.regionId << ", Date: " << p.date << ", State: " << r.state << endl;
 }
 
 int main()
