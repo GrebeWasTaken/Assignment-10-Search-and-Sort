@@ -158,9 +158,9 @@ void printFirstFivePrices(vector<PriceRecord>& prices){
 void readPrices(vector<PriceRecord>& prices){
   ifstream inputFile("ZILLOW_DATA.csv");
 
-  if (!inputFile){
-    
-  }
+  string line;
+
+  while (getLine())
 }
 
 
