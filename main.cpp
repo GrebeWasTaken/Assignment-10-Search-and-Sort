@@ -142,7 +142,7 @@ void printPriceRecord(const PriceRecord& p){
   cout << "ID: " << p.regionId << ", Date: " << p.date << ", Price: " << p.price << endl;
 }
 
-void printFirstFiveRegions(vector<Region>& regions){
+void printFirstFiveRegions(vector<PriceRecord>& regions){
   int amountToPrint = 5;
 
   if (regions.size() < 5){
