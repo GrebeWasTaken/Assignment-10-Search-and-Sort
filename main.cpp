@@ -262,6 +262,6 @@ int main()
 
   clock_t startPt6 = clock();
 
-  for (int i = 0)
+  for (int i = 0; i < static_cast<int>)
        
 }
