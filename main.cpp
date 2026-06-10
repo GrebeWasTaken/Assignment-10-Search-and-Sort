@@ -142,6 +142,8 @@ void printPriceRecord(const PriceRecord& p){
   cout << "ID: " << p.regionId << ", Date: " << p.date << ", Price: " << p.price << endl;
 }
 
+
+
 int main()
 {
   vector<Region> regions;
