@@ -156,7 +156,7 @@ void printFirstFivePrices(vector<PriceRecord>& prices){
 
 //part 5
 void readPrices(vector<PriceRecord>& prices){
-  ifstream inputFile("Z")
+  ifstream inputFile("ZILLOW_DATA.")
 }
 
 
