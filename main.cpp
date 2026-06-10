@@ -272,5 +272,5 @@ int main()
        
   clock_t endPt6 = clock();
 
-  cout << "Search loop took " << static_cast<double>(endPt6 - startPt6)
+  cout << "Search loop took " << static_cast<double>(endPt6 - startPt6) / clocks
 }
