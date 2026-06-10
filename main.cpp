@@ -155,7 +155,7 @@ void printFirstFivePrices(vector<PriceRecord>& prices){
 }
 
 //part 5
-void readPrices
+void readPrices(vector<PriceRecord>)
 
 
 int main()
