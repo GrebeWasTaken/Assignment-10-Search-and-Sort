@@ -270,5 +270,7 @@ int main()
     }
   }
        
-  clock_t endPt
+  clock_t endPt6 = clock();
+
+  
 }
