@@ -257,6 +257,7 @@ int main()
 
   string cityName;
 
-  cout << "Enter "
+  cout << "Enter city name: ";
+  
        
 }
