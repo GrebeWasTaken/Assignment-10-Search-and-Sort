@@ -262,15 +262,21 @@ int main()
 
   clock_t startPt6 = clock();
 
-  for (int i = 0; i < static_cast<int>(prices.size()); i++){
+  for (int i = 0; i < static_cast<int>(prices.size()); i++) {
     Region r = binaryFind(regions, prices[i].regionId);
 
-    if (r.city == cityName){
-      cout << "City: " << r.city << ", State: " << r.state << ", Date: " << prices[i].date << ", Prices: " << prices[i].price << endl;
+    if (r.city == cityName) {
+      cout << "City: " << r.city << ", State: " << r.state
+           << ", Date: " << prices[i].date << ", Prices: " << prices[i].price
+           << endl;
     }
   }
-       
+
   clock_t endPt6 = clock();
 
-  cout << "Search loop took " << static_cast<double>(endPt6 - startPt6) / CLOCKS_PER_SEC << " seconds"
+  cout << "Search loop took "
+       << static_cast<double>(endPt6 - startPt6) / CLOCKS_PER_SEC << " seconds."
+       << endl
+
+      return 0;
 }
