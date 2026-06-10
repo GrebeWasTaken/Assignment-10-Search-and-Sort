@@ -265,7 +265,9 @@ int main()
   for (int i = 0; i < static_cast<int>(prices.size()); i++){
     Region r = binaryFind(regions, prices[i].regionId);
 
-    
+    if (r.city == cityName){
+      
+    }
   }
        
 }
