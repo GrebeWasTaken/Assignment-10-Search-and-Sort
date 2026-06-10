@@ -163,7 +163,7 @@ void readPrices(vector<PriceRecord>& prices){
   while (getline(inputFile, line)){
     if (line != ""){
       PriceRecord p = parsePriceRecord(line);
-
+      prices.push_back(p);
     }
   }
 }
